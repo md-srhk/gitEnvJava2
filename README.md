@@ -10,7 +10,7 @@ Siehe gitEnvJava für alle Datein vor dieser.
 Ihr könnt euch dieses Projekt auf euren Computer klonen, wenn Du git hast. Git ist ein CLI-Programm.
 
 Zum klonen verwendet man:
-git clone https://github.com/marcel-dittebrand-srhk/gitEnv.git
+git clone https://github.com/md-srhk/gitEnvJava2.git
 
 Dieses Java Projekt enthält, die in der Ausbildung erstellten Quelldatein.
 
