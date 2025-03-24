@@ -35,7 +35,7 @@ public class Aufgabe10a {
 		
 		for(int i = 0; i < lottoNumbers.length; i++) {
 					
-			lottoNumbers[i] = random.nextInt(1, 49);
+			lottoNumbers[i] = random.nextInt(1, 50);
 					
 		}
 		
